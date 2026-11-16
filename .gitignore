@@ -1,0 +1,12 @@
+build/
+__pycache__/
+.venv/
+*.log
+# Dataset inputs and other local exports must stay outside version control.
+*.json
+*.csv
+*.mp4
+!artificial-analysis-history-2026-11-01.mp4
+*.html
+!chart-template.html
+history-sources/
