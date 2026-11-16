@@ -1,6 +1,6 @@
 # Third-party material and video notice
 
-The MIT license applies to this repository's original software and documentation. It does not apply to `artificial-analysis-history-2026-11-01.mp4` or third-party material visible in that video.
+The MIT license applies to this repository's original software and documentation. It does not apply to `artificial-analysis-history-2026-11-17.mp4` or third-party material visible in that video.
 
 The video presents historical Artificial Analysis results with source attribution. It includes names and logos belonging to their respective owners. No trademark rights, endorsement, or affiliation are granted or implied. This project does not license Artificial Analysis's underlying dataset or grant additional reuse rights for third-party materials.
 

@@ -4,11 +4,11 @@ Code for animating historical Artificial Analysis Intelligence Index charts and 
 
 ## Video
 
-https://github.com/user-attachments/assets/e96825f6-e4c1-481e-8c7d-fbc85ebad868
+https://github.com/user-attachments/assets/503a5dda-0d2b-4d68-a615-443f651aea92
 
-[Download the video](artificial-analysis-history-2026-11-01.mp4)
+[Download the video](artificial-analysis-history-2026-11-17.mp4)
 
-Selected snapshots from 2024 through **1 November 2026**. 1080p, 30 fps, 88.2 seconds. Each snapshot lasts 1.4 seconds, with instant cuts.
+Selected snapshots from 2024 through **17 November 2026**. 1080p, 30 fps, 100.8 seconds. Each snapshot lasts 1.4 seconds, with instant cuts.
 
 Sources: [Artificial Analysis](https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index) and [Internet Archive](https://web.archive.org/web/https://artificialanalysis.ai/).
 

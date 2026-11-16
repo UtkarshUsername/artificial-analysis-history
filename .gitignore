@@ -6,7 +6,7 @@ __pycache__/
 *.json
 *.csv
 *.mp4
-!artificial-analysis-history-2026-11-01.mp4
+!artificial-analysis-history-2026-11-17.mp4
 *.html
 !chart-template.html
 history-sources/
