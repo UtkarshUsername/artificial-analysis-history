@@ -6,6 +6,8 @@ This repository contains code and the rendered video. It does not include the hi
 
 ## Video
 
+https://github.com/user-attachments/assets/e96825f6-e4c1-481e-8c7d-fbc85ebad868
+
 [Download the video](artificial-analysis-history-2026-11-01.mp4)
 
 1920 × 1080, 30 fps, H.264, 88.2 seconds, no audio. Each snapshot lasts 1.4 seconds with instant cuts, no fades, and no bar-growth animation.
